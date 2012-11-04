@@ -1,6 +1,6 @@
 # Octopress Themes - Books Theme
 
-![Octopress Books Theme thumbnail](https://s3.amazonaws.com/static.liangzan.net/books-thumbnail.png)
+![Octopress Books Theme thumbnail](https://s3.amazonaws.com/static.octopressthemes.com/thumbnails/books-thumbnail.png)
 
 Books theme is a theme hand made for Octopress blogging framework. It is compatible with Octopress 2. Updates will be provided from this repository.
 
